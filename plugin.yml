@@ -1,0 +1,10 @@
+name: Backup-HiroTeam
+author: HiroTeam-Willy
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\Backup\BackupMain
+commands:
+  backup:
+    description: create a backup of the server in plugin_data/Backup-HiroTeam
+    usage: /backup
+    permission: backup.use

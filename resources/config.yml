@@ -1,0 +1,14 @@
+#Backup plugin by HiroTeam | Plugin Backup par la HiroTeam
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: This plugin allows to make a backup in plugin_data / Backup-HiroTeam by compressing it in tar.gz
+#FRA: Plugin qui permet de compresser en tar.gz son serveur en entier dans plugin_data/Backup-HiroTeam
+
+startBackup: "The server make a backup. Please wait a few minute !"
+endBackup: "The backup took {minute} minute/s and {second} second/s. Thank you for your patience."
+timerBackup: "Warning ! The server is going to make a backup in {second} second/s."
