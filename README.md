@@ -8,9 +8,9 @@ This plugin allows to make a backup in plugin_data/Backup-HiroTeam by compressin
 
 ---
 ### How to use
-[ENG] Use the command /backup and wait. /!\ Also make sure you have enough storage space on your server /!\</br> 
+[ENG] Use the command /backup and wait.</br>  /!\ Also make sure you have enough storage space on your server /!\ </br> 
 
-[FRA] Faire la commande /backup et patienter. /!\ Assurez vous aussi d'avoir assez d'espace de stockage sur votre serveur /!\ </br>
+[FRA] Faire la commande /backup et patienter.</br>  /!\ Assurez vous aussi d'avoir assez d'espace de stockage sur votre serveur /!\ </br>
 
 ##### Here is the video:
 - Backup-HiroTeam Pocketmine plugin in __Youtube__ ! __no video yet__
